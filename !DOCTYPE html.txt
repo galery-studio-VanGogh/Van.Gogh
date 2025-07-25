@@ -1,0 +1,11 @@
+<!DOCTYPE html>
+<html lang="uk">
+<head>
+  <meta charset="UTF-8">
+  <title>Художня студія "Ван Гог"</title>
+</head>
+<body>
+  <h1>Ласкаво просимо!</h1>
+  <p>Це сайт моєї художньої студії для дітей.</p>
+</body>
+</html>
